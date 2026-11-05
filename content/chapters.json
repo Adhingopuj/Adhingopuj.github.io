@@ -1,0 +1,15 @@
+{
+  "preface": "00-preface.md",
+  "chapters": [
+    "01-ev-basics.md",
+    "02-battery.md",
+    "03-motors.md",
+    "04-control-units.md",
+    "05-diagnostics.md",
+    "06-field-failures.md",
+    "07-fleet.md",
+    "08-field-quality.md",
+    "09-hv-safety.md",
+    "10-four-wheelers.md"
+  ]
+}
